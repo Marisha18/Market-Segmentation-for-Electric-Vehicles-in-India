@@ -17,5 +17,5 @@ To run this project, you need to have software installed to run and execute the 
 In this project we implemented unsupervised learning using K-Means Classification algorithm.<br>
 For complete analysis and final report: [Market Segmentation.pdf](https://github.com/Marisha18/Market-Segmentation-for-Electric-Vehicles-in-India/blob/main/Market%20Segmentation.pdf)
 ## Teammates
-[Marisha Bhatti](https://github.com/Marisha18), [Hari G](https://github.com/hari-ajidesh), S. Siranjeevi
+[Marisha Bhatti](https://github.com/Marisha18), [Hari G](https://github.com/hari-ajidesh), [S. Siranjeevi](https://github.com/siranjeevi21)
 - - -
